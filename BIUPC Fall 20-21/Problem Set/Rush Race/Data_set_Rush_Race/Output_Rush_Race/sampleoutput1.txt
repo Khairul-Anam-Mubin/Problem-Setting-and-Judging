@@ -1,0 +1,16 @@
+position chart at minute 33 :
+1. Mazedul 30155
+2. Mehedi 2640
+3. Emon 1691
+position chart at minute 1 :
+1. Emon 93
+2. Mehedi 80
+3. Mazedul 1
+position chart at minute 3 :
+1. Emon 279
+2. Mehedi 240
+3. Mazedul 155
+position chart at minute 1000000000000 :
+1. Mazedul 971550000000000
+2. Mehedi 80000000000000
+3. Emon 49048780488013
