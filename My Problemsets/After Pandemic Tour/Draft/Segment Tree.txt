@@ -1,0 +1,28 @@
+https://cses.fi/problemset/task/1143
+
+After a long pandemic situation, in 20XY, we've successfully defeated Corona virus and at this moment, there are 0 active cases all over the world. Now, We're happy but We're depressed as We've passed a long time in home quarantine. By considering this, BUBT-CSE department arranged a varsity tour which is going to heal our mental health. And there is a great news that BUBT decided to bear all the cost of this tour. So, All the students of CSE dept. are wanted to attend the tour.
+
+Now, BUBT-CSE dept. came up with N buses (The buses are numbered 1,2,...,N) in a row, i'th bus have Ai number of seats And there are M intakes, i'th intakes have Bi number of students. 
+
+As You're a good programmer, Your task have to assign buses for each intakes. But there is a problem, all the students of an intake want to ride in the same bus. If there are not enough seat for all the students of an intake in the same bus then all of them will stay in home because they don't want to ride in separate bus.
+
+The intakes will come to you one after another. You always assign a intake to the first bus having enough seats. After this, the number of free seats in the bus decreases.
+
+Input
+
+The first line contains two integers N and M (1 <= N,M <= 2.10^5) , the numbers of buses and the number of intakes.
+The second line contains N integers A1, A2, .. AN (1 <= Ai <= 10^9) , the number of seats in i'th bus.
+The last line contains M integers B1, B2,.. BM (1 <= Bi <= 10^9) , the number of students in i'th intake.
+
+Output
+Print the assigned bus for each intake. If a intake cannot be assigned a bus, print 0 instead.
+
+Sample Input: 
+
+8 5
+3 2 4 1 5 5 2 6
+4 4 7 1 1
+
+Sample Output:
+
+3 5 0 1 1
