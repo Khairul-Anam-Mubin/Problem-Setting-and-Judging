@@ -1,0 +1,28 @@
+Given N nodes, let's denote each of the i'th node contains value Ai. 
+Consider an edge between two nodes i , j where i != j and (1 <= i , j <= N) if the value of the nodes Ai and Aj share common factors. 
+
+We don't want to make trouble with that graph. So just let us know the number of connected components in that graph.
+
+Input statement:
+
+The first line contains one integer T (1 ≤ T ≤ 100) — the number of test cases.
+
+Each test case consists of two lines. The first line contains one integers N where (1 <= N <= 105) — the number of nodes.
+
+The second line contains N integers A1, A2, ..., AN (0 ≤ Ai ≤ 106) - the value of the i'th node.
+
+Output Statement:
+
+For each case you have to print a line consisting the case number and the number of connected components. 
+Look at the sample output for exact format.
+
+Sample input : 
+2
+3
+2 3 4
+6
+2 3 4 5 6 6
+
+Sample Output:
+Case 1: 2
+Case 2: 2
