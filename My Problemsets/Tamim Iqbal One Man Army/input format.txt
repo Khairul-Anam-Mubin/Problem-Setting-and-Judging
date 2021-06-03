@@ -1,0 +1,2 @@
+The overs of a match M and the balls per over N.Input is terminated by 'End of File'.
+input limit (1<=M,N<=150).

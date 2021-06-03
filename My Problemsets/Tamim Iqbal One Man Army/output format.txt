@@ -1,0 +1,1 @@
+For every case of input there will be one line of output. It will contain the case number and the maximum runs R can "Tamim Iqbal" take. Look at the sample output for exact formatting.

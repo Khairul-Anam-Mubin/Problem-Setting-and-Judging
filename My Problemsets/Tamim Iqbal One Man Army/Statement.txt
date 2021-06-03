@@ -1,0 +1,5 @@
+"Tamim Iqbal" is a Bangladeshi left handed batsman who is called Mr. Dependable in his team.He often bat in opening and as he is depandable he tries to bat till the end of the match.He always uses his full strength and energy in a match.
+In this Asia cup in Dubai, Bangladesh and India elected to play the final match but as "Tamim Iqbal" had injured and he can't bat so you and your friends are upset But you want to play a different mathematical game with your friends.
+
+Given the overs of a match M and the balls in per overs N.You are to determine the maximum runs R in a match "Tamim Iqbal" can take.
+You know in opposition team India has good bowlers and fielders and they never give any no balls and overthrow in fields.
